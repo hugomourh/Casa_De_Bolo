@@ -1,0 +1,23 @@
+.blocoBolo{
+
+margin-top: 30px;
+margin-left: 35px;
+}
+
+
+
+.imagemBloco{
+    height: 45vh;
+    width: 30vw;
+}
+
+.blocoFundo{
+    display: flex;
+}
+
+.button{
+    background-color:#00ff00 ;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 16px;
+}

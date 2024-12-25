@@ -1,0 +1,59 @@
+.divBolo{
+    
+    position: relative;
+    top: 5px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.divInput{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.input{
+    width: 20vw;
+    border-radius: 16px;
+    padding: 7px;
+    margin-top: 15px;
+}
+
+.FundoTela{
+    background-color: #ff0000;
+    height: 32vh;
+   
+
+}
+
+.subtitulo{
+    font-family: Apple Chancery, cursive;
+   
+}
+
+.titulo{
+    font-family:'Georgia', serif ;
+}
+
+.contato{
+    text-align: center;
+    
+}
+
+.button{
+    margin-top: 10px;
+background-color: black;
+color: white;
+padding: 5px 25px;
+border: 2px solid white;
+border-radius: 9px;
+}
+
+.blocoButton{
+    
+    justify-content: center;
+    
+}
